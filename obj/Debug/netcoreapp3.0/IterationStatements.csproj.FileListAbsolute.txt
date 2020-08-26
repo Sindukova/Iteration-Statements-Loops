@@ -1,0 +1,13 @@
+C:\Users\Sindu\repos\IterationStatements\bin\Debug\netcoreapp3.0\IterationStatements.exe
+C:\Users\Sindu\repos\IterationStatements\bin\Debug\netcoreapp3.0\IterationStatements.deps.json
+C:\Users\Sindu\repos\IterationStatements\bin\Debug\netcoreapp3.0\IterationStatements.runtimeconfig.json
+C:\Users\Sindu\repos\IterationStatements\bin\Debug\netcoreapp3.0\IterationStatements.runtimeconfig.dev.json
+C:\Users\Sindu\repos\IterationStatements\bin\Debug\netcoreapp3.0\IterationStatements.dll
+C:\Users\Sindu\repos\IterationStatements\bin\Debug\netcoreapp3.0\IterationStatements.pdb
+C:\Users\Sindu\repos\IterationStatements\obj\Debug\netcoreapp3.0\IterationStatements.csprojAssemblyReference.cache
+C:\Users\Sindu\repos\IterationStatements\obj\Debug\netcoreapp3.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\Sindu\repos\IterationStatements\obj\Debug\netcoreapp3.0\IterationStatements.AssemblyInfo.cs
+C:\Users\Sindu\repos\IterationStatements\obj\Debug\netcoreapp3.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\Sindu\repos\IterationStatements\obj\Debug\netcoreapp3.0\IterationStatements.dll
+C:\Users\Sindu\repos\IterationStatements\obj\Debug\netcoreapp3.0\IterationStatements.pdb
+C:\Users\Sindu\repos\IterationStatements\obj\Debug\netcoreapp3.0\IterationStatements.genruntimeconfig.cache
